@@ -20,6 +20,15 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "5",
+          "date": "2026-08-26",
+          "localizedDescription": "Build 5 - feat(core): Ekşi HTML parse çekirdeği, Linux'ta test edilebilir",
+          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-5/SukelaLite.ipa",
+          "size": 48242,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "4",
           "date": "2026-08-26",
           "localizedDescription": "Build 4 - chore(ci): dist reposunda yalnızca dağıtım çıktısı kalsın",
