@@ -1,0 +1,34 @@
+{
+  "name": "Şükela Lite",
+  "identifier": "com.kerem.sukelalite.source",
+  "subtitle": "Reklamsız kişisel Ekşi Sözlük okuyucusu",
+  "description": "Kişisel kullanım için yazılmış, reklamsız Ekşi Sözlük okuyucusu. Yayınlanmıyor; SideStore ile kendi cihaza kuruluyor.",
+  "iconURL": "https://raw.githubusercontent.com/keremcankabadayi/er-dist/main/docs/icon.png",
+  "website": "https://github.com/keremcankabadayi/er-dist",
+  "tintColor": "#81C14B",
+  "apps": [
+    {
+      "name": "Şükela Lite",
+      "bundleIdentifier": "com.kerem.sukelalite",
+      "developerName": "kerem",
+      "subtitle": "Reklamsız Ekşi okuyucusu",
+      "localizedDescription": "Gündem ve debe akışlarını reklamsız okumak için yazılmış kişisel istemci.",
+      "iconURL": "https://raw.githubusercontent.com/keremcankabadayi/er-dist/main/docs/icon.png",
+      "tintColor": "#81C14B",
+      "category": "reading",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "3",
+          "date": "2026-08-26",
+          "localizedDescription": "Build 3 - fix(ci): boş dist reposunu release'den önce ilklendir",
+          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-3/SukelaLite.ipa",
+          "size": 48243,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
