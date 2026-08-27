@@ -20,6 +20,15 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "11",
+          "date": "2026-08-27",
+          "localizedDescription": "Build 11 - feat: uygulama içi günlük ve JS hatalarının gerçek mesajı",
+          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-11/SukelaLite.ipa",
+          "size": 1800904,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "10",
           "date": "2026-08-27",
           "localizedDescription": "Build 10 - fix: AJAX başlığı gönder, hata ekranına teşhis ekle",
@@ -52,15 +61,6 @@
           "localizedDescription": "Build 7 - feat: gerçek Ekşi verisine bağlan",
           "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-7/SukelaLite.ipa",
           "size": 1758047,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "6",
-          "date": "2026-08-26",
-          "localizedDescription": "Build 6 - feat(ci): simülatör ekran görüntüsü işi",
-          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-6/SukelaLite.ipa",
-          "size": 48242,
           "minOSVersion": "16.0"
         }
       ]
