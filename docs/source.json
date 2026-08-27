@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.0.21",
+          "buildVersion": "21",
+          "date": "2026-08-27",
+          "localizedDescription": "Build 21 - feat: sayfalama barı sekme çubuğunun yerini alıyor",
+          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.21/SukelaLite.ipa",
+          "size": 1873280,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.20",
           "buildVersion": "20",
           "date": "2026-08-27",
@@ -52,15 +61,6 @@
           "localizedDescription": "Build 17 - feat: entry gövdesindeki bkz ve linkler tıklanabilir",
           "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.17/SukelaLite.ipa",
           "size": 1848921,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.16",
-          "buildVersion": "16",
-          "date": "2026-08-27",
-          "localizedDescription": "Build 16 - feat: uzun başlıklar üst barda iki satıra sığıyor",
-          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.16/SukelaLite.ipa",
-          "size": 1829501,
           "minOSVersion": "16.0"
         }
       ]
