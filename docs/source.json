@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.0.18",
+          "buildVersion": "18",
+          "date": "2026-08-27",
+          "localizedDescription": "Build 18 - feat: sabit ortalı akış başlığı, oksuz satırlar, düz entry sayısı",
+          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.18/SukelaLite.ipa",
+          "size": 1850297,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.17",
           "buildVersion": "17",
           "date": "2026-08-27",
@@ -52,15 +61,6 @@
           "localizedDescription": "Build 14 - feat: başlık üstünde \"N entry daha\" ile önceki sayfaları yükleme",
           "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-14/SukelaLite.ipa",
           "size": 1825773,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "13",
-          "date": "2026-08-27",
-          "localizedDescription": "Build 13 - feat: zebra satırlar, renkli entry sayısı, başlık kaldığı yerden açılıyor",
-          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-13/SukelaLite.ipa",
-          "size": 1814023,
           "minOSVersion": "16.0"
         }
       ]
