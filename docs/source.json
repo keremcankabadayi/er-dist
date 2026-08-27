@@ -20,6 +20,15 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "12",
+          "date": "2026-08-27",
+          "localizedDescription": "Build 12 - feat: süre ölçümü ve açılışta önden bootstrap",
+          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-12/SukelaLite.ipa",
+          "size": 1807952,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "11",
           "date": "2026-08-27",
           "localizedDescription": "Build 11 - feat: uygulama içi günlük ve JS hatalarının gerçek mesajı",
@@ -52,15 +61,6 @@
           "localizedDescription": "Build 8 - fix(core): başlık listesi entry'leri ve gezinme bağlantılarını yakalıyordu",
           "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-8/SukelaLite.ipa",
           "size": 1762445,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "7",
-          "date": "2026-08-26",
-          "localizedDescription": "Build 7 - feat: gerçek Ekşi verisine bağlan",
-          "downloadURL": "https://github.com/keremcankabadayi/er-dist/releases/download/v1.0.0-7/SukelaLite.ipa",
-          "size": 1758047,
           "minOSVersion": "16.0"
         }
       ]
